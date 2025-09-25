@@ -20,8 +20,8 @@
   - Template contains placeholder blocks with various styling options
 
 ## Environments
-- Preview: https://main--wknd--aemxsc.aem.page/
-- Live: https://main--wknd--aemxsc.aem.live/
+- Preview: https://main--xsc-wknd--yanrao.aem.page/
+- Live: https://main--xsc-wknd--yanrao.aem.live/
 
 ## Documentation
 [Ref Demo 2.0](https://adobe.com/go/refdemo) 
